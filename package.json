@@ -1,0 +1,24 @@
+{
+  "name": "cobc",
+  "version": "1.0.0",
+  "description": "Javascript based COBOL compiler",
+  "main": "./lib/cobc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rootdevelop/cobc.git"
+  },
+  "keywords": [
+    "cobol",
+    "compiler",
+    "cobc"
+  ],
+  "author": "RootDevelop <robbert@rootdevelop.nl> (https://github.com/rootdevelop)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rootdevelop/cobc/issues"
+  },
+  "homepage": "https://github.com/rootdevelop/cobc#readme"
+}
